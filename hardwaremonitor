@@ -1,0 +1,14 @@
+
+[Section]
+Name = Hardware Monitor Pro
+Version = Version 1.96 for windows
+License = Freeware
+Description = Show hardware information.
+Size = 43.3 MiB
+Category = 4
+URLSite = https://www.cpuid.com/softwares/hwmonitor-pro.html
+URLDownload = https://www.cpuid.com/downloads/hwmonitor-pro/hwmonitor-pro_1.45.exe
+SHA1 = 91de3526daa12a139f051dee9f865f84be79aeed
+CDPath = none
+SizeBytes = 45464090
+Know issue: Installer button did not have text, sometime you will get bluescreen memory handle, but works most times.

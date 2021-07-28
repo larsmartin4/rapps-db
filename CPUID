@@ -1,0 +1,13 @@
+[Section]
+Name = CPU-Z
+Version = Version 1.96 for windows
+License = Freeware
+Description = Show cpu information.
+Size = 43.3 MiB
+Category = 4
+URLSite = https://www.cpuid.com/softwares/cpu-z.html
+URLDownload = https://www.cpuid.com/downloads/cpu-z/cpu-z_1.96-en.exe
+SHA1 = 91de3526daa12a139f051dee9f865f84be79aeed
+CDPath = none
+SizeBytes = 45464090
+Know issue: Installer button did not have text, sometime you will get bluescreen memory handle, but works.
